@@ -1,0 +1,18 @@
+intro: ""
+publications:
+  - paper:
+    title: "#128 – Extending PeopleSoft w/ Colton Fischer"
+    authors: Colton Fischer, Dan Iverson
+    conference: PeopleSoft Administrator Podcast, April 2018
+  - paper:
+    title: Building an Application Firewall with Event Mapping
+    authors: Colton Fischer
+    conference: Alliance, March 2017
+  - paper:
+    title: "#55 – 2FA and Event Mapping w/ Colton Fischer"
+    authors: Colton Fischer, Dan Iverson, Kyle Benson
+    conference: PeopleSoft Administrator Podcast, November 2016
+  - paper:
+    title: MultiFactor Authentication – Vendor-built and Homegrown
+    authors: Colton Fischer, Josh Harmon
+    conference: HEUG Education Series, October 2016

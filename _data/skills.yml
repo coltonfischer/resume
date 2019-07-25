@@ -1,0 +1,30 @@
+- skill:
+  name: PeopleTools
+  level: 98%
+- skill:
+  name: Integrations
+  level: 95%
+- skill:
+  name: Application Security
+  level: 90%
+- skill:
+  name: Server Administration
+  level: 80%
+- skill:
+  name: SQL
+  level: 75%
+- skill:
+  name: JavaScript
+  level: 75%
+- skill:
+  name: HTML
+  level: 70%
+- skill:
+  name: PHP
+  level: 65%
+- skill:
+  name: Java
+  level: 60%
+- skill:
+  name: CSS
+  level: 55%
